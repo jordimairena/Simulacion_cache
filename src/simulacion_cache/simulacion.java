@@ -12,7 +12,7 @@ import java.util.Arrays;
  */
 public class simulacion {
 
-    int linea_cache = 64;
+    int linea_cache = 8;
     int tam_bloque = 8;
     int conj_cache = 16;
     int tam_conjunto = 4;
